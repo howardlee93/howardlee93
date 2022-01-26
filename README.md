@@ -2,6 +2,9 @@
 
 I am weirdly fond of JavaScript 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardlee93)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **howardlee93/howardlee93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
